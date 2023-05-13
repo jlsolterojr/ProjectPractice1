@@ -1,2 +1,2 @@
 # ProjectPractice1
-A practice for file for online tech course.
+A practice file for online tech course.
